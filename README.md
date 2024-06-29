@@ -21,7 +21,8 @@ OpenWeatherMap API:
 - URL: https://api.openweathermap.org/data/2.5/weather
 - Parameters: units=metric, appid, q (city name)
 
-##Screenshots
+
+## Screenshots
 ![image](https://github.com/shibbolithic/weatherapp/assets/113848272/d3df5425-fe26-4db0-bad2-960e002113fb)
 ![image](https://github.com/shibbolithic/weatherapp/assets/113848272/ed1070df-685b-4f4d-805e-531b6ac80df2)
 
